@@ -13,7 +13,7 @@
 <a href="https://linkedin.com/in/mohit-makawana-b1233226a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-makawana-b1233226a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22408990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22408990" height="30" width="40" /></a>
 <a href="https://fb.com/kantilal.mistry.925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kantilal.mistry.925" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit_makawana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_makawana" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit_makawana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_makawana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucw6diweg8u6v1m2oy9sjw2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw6diweg8u6v1m2oy9sjw2g" height="30" width="40" /></a>
 </p>
 
