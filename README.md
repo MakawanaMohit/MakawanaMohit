@@ -1,6 +1,7 @@
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Mohit Makawana</h1>
 <h3 align="center">I am an student of diploma and i am learning android/python etc</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **makavanamohi777@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
