@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm Mohit Makawana</h1>
+<h1 align="center">Hi 👋, I'm Mohit Makwana</h1>
 <h3 align="center">I am an student of diploma and i am learning android/python etc</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 📫 How to reach me **makavanamohi777@gmail.com**
@@ -7,10 +7,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_makwana_mohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_makwana_mohit" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohit-makawana-b1233226a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-makawana-b1233226a/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohit-makwana-b1233226a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohit-makwana-b1233226a/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22408990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22408990" height="30" width="40" /></a>
 <a href="https://fb.com/kantilal.mistry.925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kantilal.mistry.925" height="30" width="40" /></a>
-<a href="https://instagram.com/mohit_makwana__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_makawana" height="30" width="40" /></a>
+<a href="https://instagram.com/mohit_makwana__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohit_makwana" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucw6diweg8u6v1m2oy9sjw2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucw6diweg8u6v1m2oy9sjw2g" height="30" width="40" /></a>
 </p>
 
